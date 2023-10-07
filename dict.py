@@ -9,5 +9,4 @@ if tukhoa in  (data['entries']):
    c = a['_']
    if pronunciation in (tukhoa[]):
       print(tukhoa['pronunciation'])
-   print(b['meaning'])
-   print(b)
+   if 'none' not in (c'):
